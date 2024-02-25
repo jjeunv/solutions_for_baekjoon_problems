@@ -19,7 +19,3 @@ for i in range(1, n - 1):
             if icecream[i][j] and icecream[j][k] and icecream[k][i]:
                 ans += 1
 print(ans)
-1234
-12
-134
-234
